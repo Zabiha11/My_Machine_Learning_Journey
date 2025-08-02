@@ -99,4 +99,14 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 
 ---
 
-## 📌 Repository Structure
+
+---
+
+## 🧠 Motivation
+> “Learning never exhausts the mind.” – Leonardo da Vinci  
+I’m committed to building intelligent AI systems, and this journey is the foundation. Follow along!
+
+---
+
+⭐ If you find this useful, feel free to star the repo or connect with me!
+
