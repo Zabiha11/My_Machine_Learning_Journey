@@ -1,1 +1,102 @@
-# My_Machine_Learning_Journey
+# 🤖 Hands-On Machine Learning Course Progress
+
+Welcome to my Machine Learning learning journey! This repository contains my weekly notes, exercises, and projects as I progress through a comprehensive hands-on curriculum.
+
+---
+
+## 🗂️ Course Modules & Progress
+
+### ✅ Module 1: Machine Learning Basics
+- [ ] 1.1 Artificial Intelligence vs Machine Learning vs Deep Learning
+- [ ] 1.2 Types of ML: Supervised, Unsupervised & Reinforcement Learning
+- [ ] 1.3 Supervised Learning & its Types
+- [ ] 1.4 Unsupervised Learning & its Types
+- [ ] 1.5 Deep Learning – Basics
+
+### 🐍 Module 2: Python Basics for ML
+- [ ] 2.1 Google Colab Setup
+- [ ] 2.2 Python Basics
+- [ ] 2.3 Data Types – int, float, string, complex, boolean
+- [ ] 2.4 Data Structures – List, Tuple, Set, Dictionary
+- [ ] 2.5 Operators in Python
+- [ ] 2.6 If-Else Statements
+- [ ] 2.7 Loops – For & While
+- [ ] 2.8 Functions in Python
+
+### 📚 Module 3: Python Libraries
+- [ ] 3.1 Numpy
+- [ ] 3.2 Pandas
+- [ ] 3.3 Matplotlib & Seaborn
+- [ ] 3.4 Sklearn
+
+### 🧼 Module 4: Data Collection & Processing
+- [ ] 4.1 Where and How to Collect Data
+- [ ] 4.2 Importing via Kaggle API
+- [ ] 4.3 Handling Missing Values
+- [ ] 4.4 Data Standardization
+
+### 📐 Module 5: Math for ML
+- [ ] 5.1 Linear Algebra
+- [ ] 5.2 Calculus
+- [ ] 5.3 Statistics
+- [ ] 5.4 Probability
+
+### 🧠 Module 6: Training ML Models
+- [ ] 6.1 What is an ML Model?
+- [ ] 6.2 Model Selection
+- [ ] 6.3 Model Optimization
+- [ ] 6.4 Model Evaluation
+
+### 📊 Module 7: Classification Models
+- [ ] Logistic Regression – Theory
+- [ ] Logistic Regression – From Scratch
+- [ ] SVM – Theory
+- [ ] SVM – From Scratch
+- [ ] Decision Tree – Theory
+- [ ] Decision Tree – From Scratch
+- [ ] Random Forest – Theory
+- [ ] Random Forest – From Scratch
+- [ ] Naive Bayes – Theory
+- [ ] Naive Bayes – From Scratch
+- [ ] KNN – Theory
+- [ ] KNN – From Scratch
+
+### 📈 Module 8: Regression Models
+- [ ] Linear Regression – Theory
+- [ ] Linear Regression – From Scratch
+- [ ] Lasso Regression – Theory
+- [ ] Lasso Regression – From Scratch
+- [ ] Logistic Regression – Theory
+- [ ] Logistic Regression – From Scratch
+- [ ] SVM Regression – Theory
+- [ ] SVM Regression – From Scratch
+- [ ] Decision Tree Regression – Theory
+- [ ] Decision Tree Regression – From Scratch
+- [ ] Random Forest Regression – Theory
+- [ ] Random Forest Regression – From Scratch
+
+### 🌀 Module 9: Clustering Models
+- [ ] K-Means – Theory
+- [ ] K-Means – From Scratch
+- [ ] Hierarchical Clustering – Theory
+- [ ] Hierarchical Clustering – From Scratch
+
+### 🔗 Module 10: Association Models
+- [ ] Apriori – Theory
+- [ ] Apriori – From Scratch
+- [ ] Eclat – Theory
+- [ ] Eclat – From Scratch
+
+---
+
+## 🛠️ Projects
+- [ ] 🎭 Face Recognition System  
+- [ ] 🧾 SONAR Rock vs Mine Prediction  
+- [ ] 💉 Diabetes Prediction  
+- [ ] 🏠 House Price Prediction  
+- [ ] 📰 Fake News Detection  
+- [ ] 💰 Loan Status Prediction  
+
+---
+
+## 📌 Repository Structure
