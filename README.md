@@ -7,24 +7,24 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 ## 🗂️ Course Modules & Progress
 
 ### ✅ Module 1: Machine Learning Basics
-- [ ] 1.1 Artificial Intelligence vs Machine Learning vs Deep Learning
-- [ ] 1.2 Types of ML: Supervised, Unsupervised & Reinforcement Learning
-- [ ] 1.3 Supervised Learning & its Types
-- [ ] 1.4 Unsupervised Learning & its Types
-- [ ] 1.5 Deep Learning – Basics
+- [x] 1.1 Artificial Intelligence vs Machine Learning vs Deep Learning
+- [x] 1.2 Types of ML: Supervised, Unsupervised & Reinforcement Learning
+- [x] 1.3 Supervised Learning & its Types
+- [x] 1.4 Unsupervised Learning & its Types
+- [x] 1.5 Deep Learning – Basics
 
 ### 🐍 Module 2: Python Basics for ML
-- [ ] 2.1 Google Colab Setup
-- [ ] 2.2 Python Basics
-- [ ] 2.3 Data Types – int, float, string, complex, boolean
-- [ ] 2.4 Data Structures – List, Tuple, Set, Dictionary
-- [ ] 2.5 Operators in Python
-- [ ] 2.6 If-Else Statements
-- [ ] 2.7 Loops – For & While
-- [ ] 2.8 Functions in Python
+- [x] 2.1 Google Colab Setup
+- [x] 2.2 Python Basics
+- [x] 2.3 Data Types – int, float, string, complex, boolean
+- [x] 2.4 Data Structures – List, Tuple, Set, Dictionary
+- [x] 2.5 Operators in Python
+- [x] 2.6 If-Else Statements
+- [x] 2.7 Loops – For & While
+- [x] 2.8 Functions in Python
 
 ### 📚 Module 3: Python Libraries
-- [ ] 3.1 Numpy
+- [x] 3.1 Numpy
 - [ ] 3.2 Pandas
 - [ ] 3.3 Matplotlib & Seaborn
 - [ ] 3.4 Sklearn
