@@ -25,13 +25,13 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 
 ### 📚 Module 3: Python Libraries
 - [x] 3.1 Numpy
-- [ ] 3.2 Pandas
-- [ ] 3.3 Matplotlib & Seaborn
+- [x] 3.2 Pandas
+- [x] 3.3 Matplotlib & Seaborn
 - [ ] 3.4 Sklearn
 
 ### 🧼 Module 4: Data Collection & Processing
-- [ ] 4.1 Where and How to Collect Data
-- [ ] 4.2 Importing via Kaggle API
+- [x] 4.1 Where and How to Collect Data
+- [x] 4.2 Importing via Kaggle API
 - [ ] 4.3 Handling Missing Values
 - [ ] 4.4 Data Standardization
 
@@ -91,7 +91,7 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 
 ## 🛠️ Projects
 - [ ] 🎭 Face Recognition System  
-- [ ] 🧾 SONAR Rock vs Mine Prediction  
+- [x] 🧾 SONAR Rock vs Mine Prediction  
 - [ ] 💉 Diabetes Prediction  
 - [ ] 🏠 House Price Prediction  
 - [ ] 📰 Fake News Detection  
