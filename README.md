@@ -32,8 +32,8 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 ### 🧼 Module 4: Data Collection & Processing
 - [x] 4.1 Where and How to Collect Data
 - [x] 4.2 Importing via Kaggle API
-- [ ] 4.3 Handling Missing Values
-- [ ] 4.4 Data Standardization
+- [x] 4.3 Handling Missing Values
+- [x] 4.4 Data Standardization
 
 ### 📐 Module 5: Math for ML
 - [ ] 5.1 Linear Algebra
