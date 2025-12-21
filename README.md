@@ -36,16 +36,16 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 - [x] 4.4 Data Standardization
 
 ### 📐 Module 5: Math for ML
-- [ ] 5.1 Linear Algebra
+- [x] 5.1 Linear Algebra
 - [ ] 5.2 Calculus
-- [ ] 5.3 Statistics
-- [ ] 5.4 Probability
+- [x] 5.3 Statistics
+- [x] 5.4 Probability
 
 ### 🧠 Module 6: Training ML Models
-- [ ] 6.1 What is an ML Model?
-- [ ] 6.2 Model Selection
-- [ ] 6.3 Model Optimization
-- [ ] 6.4 Model Evaluation
+- [x] 6.1 What is an ML Model?
+- [x] 6.2 Model Selection
+- [x] 6.3 Model Optimization
+- [x] 6.4 Model Evaluation
 
 ### 📊 Module 7: Classification Models
 - [ ] Logistic Regression – Theory
@@ -62,8 +62,8 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 - [ ] KNN – From Scratch
 
 ### 📈 Module 8: Regression Models
-- [ ] Linear Regression – Theory
-- [ ] Linear Regression – From Scratch
+- [x] Linear Regression – Theory
+- [x] Linear Regression – From Scratch
 - [ ] Lasso Regression – Theory
 - [ ] Lasso Regression – From Scratch
 - [ ] Logistic Regression – Theory
@@ -92,7 +92,7 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 ## 🛠️ Projects
 - [ ] 🎭 Face Recognition System  
 - [x] 🧾 SONAR Rock vs Mine Prediction  
-- [ ] 💉 Diabetes Prediction  
+- [x] 💉 Diabetes Prediction  
 - [ ] 🏠 House Price Prediction  
 - [ ] 📰 Fake News Detection  
 - [ ] 💰 Loan Status Prediction  
