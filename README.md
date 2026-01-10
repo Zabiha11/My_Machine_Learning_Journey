@@ -48,10 +48,10 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 - [x] 6.4 Model Evaluation
 
 ### 📊 Module 7: Classification Models
-- [ ] Logistic Regression – Theory
-- [ ] Logistic Regression – From Scratch
-- [ ] SVM – Theory
-- [ ] SVM – From Scratch
+- [x] Logistic Regression – Theory
+- [x] Logistic Regression – From Scratch
+- [x] SVM – Theory
+- [x] SVM – From Scratch
 - [ ] Decision Tree – Theory
 - [ ] Decision Tree – From Scratch
 - [ ] Random Forest – Theory
@@ -64,8 +64,8 @@ Welcome to my Machine Learning learning journey! This repository contains my wee
 ### 📈 Module 8: Regression Models
 - [x] Linear Regression – Theory
 - [x] Linear Regression – From Scratch
-- [ ] Lasso Regression – Theory
-- [ ] Lasso Regression – From Scratch
+- [x] Lasso Regression – Theory
+- [x] Lasso Regression – From Scratch
 - [ ] Logistic Regression – Theory
 - [ ] Logistic Regression – From Scratch
 - [ ] SVM Regression – Theory
