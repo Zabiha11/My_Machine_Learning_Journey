@@ -195,7 +195,7 @@ from sklearn.model_selection import GridSearchCV
 
 **Zabiha Muskan**
 
-Pre-final Year BE Computer Science & Engineering Student
+Final Year BE Computer Science & Engineering Student
 Focused on Machine Learning, AI, and Data Science
 
 ---
