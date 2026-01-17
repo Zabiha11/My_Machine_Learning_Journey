@@ -97,6 +97,7 @@ The goal was to optimize model performance by systematically searching for the b
 ### 🛠️ Dataset & Preprocessing
 
 * Dataset: Titanic (Kaggle)
+* Dataset Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 * Missing value handling (Age, Embarked, Cabin)
 * Feature engineering (Title extraction, Family Size)
 * Encoding categorical variables
